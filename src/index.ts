@@ -1,1 +1,5 @@
-// Code Something. 
+// Code Something.
+
+const a = 1;
+
+console.log(a); 
